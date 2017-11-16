@@ -1,0 +1,69 @@
+[13-Nov-2017 17:36:19 America/Chicago] PHP Warning:  require_once(../conexion/conexion.php'): failed to open stream: No such file or directory in /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php on line 3
+[13-Nov-2017 17:36:19 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../conexion/conexion.php'' (include_path='.:/opt/php54/lib/php') in /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php on line 3
+[13-Nov-2017 17:36:29 America/Chicago] PHP Warning:  require_once(../conexion/conexion.php'): failed to open stream: No such file or directory in /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php on line 3
+[13-Nov-2017 17:36:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../conexion/conexion.php'' (include_path='.:/opt/php54/lib/php') in /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php on line 3
+[13-Nov-2017 17:37:16 America/Chicago] PHP Warning:  require_once(../conexion/conexion.php'): failed to open stream: No such file or directory in /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php on line 3
+[13-Nov-2017 17:37:16 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../conexion/conexion.php'' (include_path='.:/opt/php54/lib/php') in /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php on line 3
+[13-Nov-2017 17:37:59 America/Chicago] PHP Warning:  require_once(../conexion/conexion.php'): failed to open stream: No such file or directory in /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php on line 3
+[13-Nov-2017 17:37:59 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../conexion/conexion.php'' (include_path='.:/opt/php54/lib/php') in /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php on line 3
+[13-Nov-2017 17:39:34 America/Chicago] PHP Warning:  require_once(conexion/conexion.php'): failed to open stream: No such file or directory in /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php on line 3
+[13-Nov-2017 17:39:34 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'conexion/conexion.php'' (include_path='.:/opt/php54/lib/php') in /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php on line 3
+[13-Nov-2017 17:39:52 America/Chicago] PHP Warning:  require_once(../../conexion/conexion.php'): failed to open stream: No such file or directory in /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php on line 3
+[13-Nov-2017 17:39:52 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../../conexion/conexion.php'' (include_path='.:/opt/php54/lib/php') in /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php on line 3
+[13-Nov-2017 17:40:36 America/Chicago] PHP Warning:  require_once(conexion/conexion.php'): failed to open stream: No such file or directory in /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php on line 3
+[13-Nov-2017 17:40:36 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'conexion/conexion.php'' (include_path='.:/opt/php54/lib/php') in /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php on line 3
+[13-Nov-2017 17:40:56 America/Chicago] PHP Warning:  require_once(conexion/conexion.php'): failed to open stream: No such file or directory in /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php on line 3
+[13-Nov-2017 17:40:56 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'conexion/conexion.php'' (include_path='.:/opt/php54/lib/php') in /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php on line 3
+[13-Nov-2017 20:58:19 America/Asuncion] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty' in /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php:14
+Stack trace:
+#0 /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php(14): PDO->prepare('')
+#1 {main}
+  thrown in /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php on line 14
+[13-Nov-2017 21:00:37 America/Asuncion] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty' in /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php:14
+Stack trace:
+#0 /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php(14): PDO->prepare('')
+#1 {main}
+  thrown in /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php on line 14
+[13-Nov-2017 21:00:47 America/Asuncion] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty' in /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php:14
+Stack trace:
+#0 /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php(14): PDO->prepare('')
+#1 {main}
+  thrown in /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php on line 14
+[13-Nov-2017 21:02:14 America/Asuncion] PHP Fatal error:  Call to a member function execute() on a non-object in /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php on line 18
+[13-Nov-2017 21:03:44 America/Asuncion] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php:46
+Stack trace:
+#0 /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php(46): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php on line 46
+[13-Nov-2017 21:04:54 America/Asuncion] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php:46
+Stack trace:
+#0 /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php(46): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php on line 46
+[13-Nov-2017 21:07:04 America/Asuncion] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php:46
+Stack trace:
+#0 /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php(46): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/peigriega/public_html/Digicolors/php/controlarEstadoPedido.php on line 46
+[13-Nov-2017 19:37:35 America/Chicago] PHP Warning:  require_once(../conexion/conexion.php'): failed to open stream: No such file or directory in /home/peigriega/public_html/Digicolors/php/llamarRegistroPedido.php on line 4
+[13-Nov-2017 19:37:35 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../conexion/conexion.php'' (include_path='.:/opt/php54/lib/php') in /home/peigriega/public_html/Digicolors/php/llamarRegistroPedido.php on line 4
+[13-Nov-2017 19:37:38 America/Chicago] PHP Warning:  require_once(../conexion/conexion.php'): failed to open stream: No such file or directory in /home/peigriega/public_html/Digicolors/php/llamarRegistroPedido.php on line 4
+[13-Nov-2017 19:37:38 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../conexion/conexion.php'' (include_path='.:/opt/php54/lib/php') in /home/peigriega/public_html/Digicolors/php/llamarRegistroPedido.php on line 4
+[13-Nov-2017 19:37:39 America/Chicago] PHP Warning:  require_once(../conexion/conexion.php'): failed to open stream: No such file or directory in /home/peigriega/public_html/Digicolors/php/llamarRegistroPedido.php on line 4
+[13-Nov-2017 19:37:39 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../conexion/conexion.php'' (include_path='.:/opt/php54/lib/php') in /home/peigriega/public_html/Digicolors/php/llamarRegistroPedido.php on line 4
+[13-Nov-2017 19:37:40 America/Chicago] PHP Warning:  require_once(../conexion/conexion.php'): failed to open stream: No such file or directory in /home/peigriega/public_html/Digicolors/php/llamarRegistroPedido.php on line 4
+[13-Nov-2017 19:37:40 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../conexion/conexion.php'' (include_path='.:/opt/php54/lib/php') in /home/peigriega/public_html/Digicolors/php/llamarRegistroPedido.php on line 4
+[13-Nov-2017 20:53:33 America/Chicago] PHP Warning:  require_once(../conexion/conexion.php'): failed to open stream: No such file or directory in /home/peigriega/public_html/Digicolors/php/llamarRegistroPedido.php on line 4
+[13-Nov-2017 20:53:33 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../conexion/conexion.php'' (include_path='.:/opt/php54/lib/php') in /home/peigriega/public_html/Digicolors/php/llamarRegistroPedido.php on line 4
+[13-Nov-2017 20:58:45 America/Chicago] PHP Warning:  require_once(../../conexion/conexion.php'): failed to open stream: No such file or directory in /home/peigriega/public_html/Digicolors/php/llamarRegistroPedido.php on line 4
+[13-Nov-2017 20:58:45 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../../conexion/conexion.php'' (include_path='.:/opt/php54/lib/php') in /home/peigriega/public_html/Digicolors/php/llamarRegistroPedido.php on line 4
+[13-Nov-2017 20:59:14 America/Chicago] PHP Warning:  require_once(conexion/conexion.php'): failed to open stream: No such file or directory in /home/peigriega/public_html/Digicolors/php/llamarRegistroPedido.php on line 4
+[13-Nov-2017 20:59:14 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'conexion/conexion.php'' (include_path='.:/opt/php54/lib/php') in /home/peigriega/public_html/Digicolors/php/llamarRegistroPedido.php on line 4
+[13-Nov-2017 20:59:48 America/Chicago] PHP Warning:  require_once(conexion/conexion.php'): failed to open stream: No such file or directory in /home/peigriega/public_html/Digicolors/php/llamarRegistroPedido.php on line 4
+[13-Nov-2017 20:59:48 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'conexion/conexion.php'' (include_path='.:/opt/php54/lib/php') in /home/peigriega/public_html/Digicolors/php/llamarRegistroPedido.php on line 4
+[13-Nov-2017 21:00:05 America/Chicago] PHP Warning:  require(../conexion/conexion.php'): failed to open stream: No such file or directory in /home/peigriega/public_html/Digicolors/php/llamarRegistroPedido.php on line 4
+[13-Nov-2017 21:00:05 America/Chicago] PHP Warning:  require(../conexion/conexion.php'): failed to open stream: No such file or directory in /home/peigriega/public_html/Digicolors/php/llamarRegistroPedido.php on line 4
+[13-Nov-2017 21:00:05 America/Chicago] PHP Fatal error:  require(): Failed opening required '../conexion/conexion.php'' (include_path='.:/opt/php54/lib/php') in /home/peigriega/public_html/Digicolors/php/llamarRegistroPedido.php on line 4
+[13-Nov-2017 21:00:28 America/Chicago] PHP Warning:  include_once(../conexion/conexion.php'): failed to open stream: No such file or directory in /home/peigriega/public_html/Digicolors/php/llamarRegistroPedido.php on line 4
+[13-Nov-2017 21:00:28 America/Chicago] PHP Warning:  include_once(): Failed opening '../conexion/conexion.php'' for inclusion (include_path='.:/opt/php54/lib/php') in /home/peigriega/public_html/Digicolors/php/llamarRegistroPedido.php on line 4
+[13-Nov-2017 21:00:28 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/peigriega/public_html/Digicolors/php/llamarRegistroPedido.php on line 16

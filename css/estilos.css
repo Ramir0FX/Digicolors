@@ -1,0 +1,14 @@
+/*Trabajos pendiente*/
+.verde{
+    background: #0ccc00;
+}
+
+/*Trabajos cancelados*/
+.naranja{
+    background: #fd7e14;
+}
+
+/*Trabajos aplazados*/
+.rojo{
+    background: #d2322d;
+}

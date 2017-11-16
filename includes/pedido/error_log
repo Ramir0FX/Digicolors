@@ -1,0 +1,6 @@
+[13-Nov-2017 15:58:58 America/Chicago] PHP Warning:  include(../svalidador.php): failed to open stream: No such file or directory in /home/peigriega/public_html/Digicolors/includes/pedido/verPedido.php on line 3
+[13-Nov-2017 15:58:58 America/Chicago] PHP Warning:  include(../svalidador.php): failed to open stream: No such file or directory in /home/peigriega/public_html/Digicolors/includes/pedido/verPedido.php on line 3
+[13-Nov-2017 15:58:58 America/Chicago] PHP Warning:  include(): Failed opening '../svalidador.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/peigriega/public_html/Digicolors/includes/pedido/verPedido.php on line 3
+[13-Nov-2017 16:01:01 America/Chicago] PHP Fatal error:  Call to undefined function phpsession_start() in /home/peigriega/public_html/Digicolors/includes/validador.php on line 1
+[13-Nov-2017 16:01:26 America/Chicago] PHP Fatal error:  Call to undefined function phpsession_start() in /home/peigriega/public_html/Digicolors/includes/validador.php on line 1
+[13-Nov-2017 16:36:51 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/peigriega/public_html/Digicolors/includes/pedido/modificarPedidoForm.php on line 5
