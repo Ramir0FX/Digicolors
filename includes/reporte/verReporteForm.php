@@ -1,7 +1,7 @@
 <?php
 
-define('root', $_SERVER['DOCUMENT_ROOT'] . '/Digicolors/');
-include(root . 'includes/validador.php');
+//define('root', $_SERVER['DOCUMENT_ROOT'] . '/Digicolors/');
+//include(root . 'includes/validador.php');
 
 $SQL_PEDIDO_ESTADO = "select * from pedido_estado order by id_pedido_estado asc";
 $job_order_status = $conex->query($SQL_PEDIDO_ESTADO)->fetchAll(PDO::FETCH_ASSOC);

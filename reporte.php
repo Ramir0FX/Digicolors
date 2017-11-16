@@ -3,7 +3,6 @@ define('root', $_SERVER['DOCUMENT_ROOT'] . '/Digicolors/');
 include(root . 'includes/validador.php');
 include(root . 'conexion/conexion.php');
 include(root . 'includes/head.php');
-include(root . 'includes/funciones.php');
 ?>
 
 <body>

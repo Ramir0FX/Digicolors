@@ -6,7 +6,7 @@ include(root . 'includes/head.php');
 include(root . 'includes/funciones.php');
 // *** Validate request to login to this site.
 
-if ( isset($_SESSION['MS_USER_NAME']) && isset($_SESSION['MS_USER']) && $_SESSION['MS_USER_ROL'] != '' && $_SESSION['MS_USER_ID'] != '0' ){
+if ( isset($_SESSION['MS_USER_NAME']) && isset($_SESSION['MS_USER']) && $_SESSION['MS_USER_ROL_NAME'] != '' && $_SESSION['MS_USER_ID'] != '0' ){
 
     echo '<script>window.location.href = "http://peigriega.com/Digicolors";</script>';
 
