@@ -89,7 +89,7 @@ if ((isset($_POST['filtrar_reporte'])) && ($_POST['filtrar_reporte'] == 1)) {
       <td><strong>' . number_format($sumatotal, 0, ".", ".") . ' Gs.</strong></td>
     </tr>
   </tfoot></tbody></table>
-            <a href="imprimeReporte.php" class="btn btn-success pull-right">Imprimir informe</a>';
+            <a target="_blank" href="includes/reporte/imprimirReporte.php?d=' . $PEDIDO_TIEMPO_RECEPCION . '&h=' . $PEDIDO_TIEMPO_ENTREGA . '&estado='.$PEDIDO_ESTADO.'&cliente='.$PEDIDO_ID_CLIENTE.' " class="btn btn-success pull-right">Imprimir informe</a>';
     $array = array(0 => $tabla);
     echo json_encode($array);
 }
